@@ -56,15 +56,13 @@ while (me.isAlive()) {
       <p align="center">Cross-Chain Infrastructure</p>
     </p>
   </td>
+  <td>
+    <p align="center">
+      <h3>NewmoneyAI</h3>
+      <p align="center">AI-Powered Financial Solutions</p>
+    </p>
+  </td>
  </tr>
- <tr>
-    <td>
-      <p align="center">
-        <h3>NewmoneyAI</h3>
-        <p align="center">AI-Powered Financial Solutions</p>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
