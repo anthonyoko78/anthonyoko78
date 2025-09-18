@@ -3,7 +3,7 @@
   <h1>Senior Full Stack Developer</h1>
 </div>
 
-With over 10 years of experience in full-stack web and mobile app development for global businesses, I bring the technical expertise you're seeking for your Web and Mobile Developer position advertised on IT.
+With over 7 years of experience in full-stack web and mobile app development for global businesses, I bring the technical expertise you're seeking for your Web and Mobile Developer position advertised on IT.
 
 As a developer dedicated to customer satisfaction, I oversee all stages of web and mobile development—from concept and requirements gathering to design, development, launch, maintenance, and user support. I thrive in client-facing roles and enjoy collaborating closely with team members to deliver high-quality results.
 
@@ -18,42 +18,14 @@ Thank you for your time and consideration!
 </picture>
 
 
-### - Languages and Tools...
+## 🔧 TECHNICAL SKILLS
 
-<table>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
-  </tr>
-</table>
+- **Trading & ML:** Algorithmic trading, ML pipelines, PCA & clustering, MFE/MAE analysis
+- **Web3 / Blockchain:** Solidity, Rust, smart contract development, DeFi protocols, liquidity pools, exchange APIs, on-chain data pipelines
+- **Backend:** Python (FastAPI, Django), Node.js, NestJS, PostgreSQL, Redis
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Cloud/Infra:** AWS (Lambda, ECS/EKS, SQS), Docker, Terraform, CI/CD
+- **Leadership & BI:** Agency management, SaaS architecture, analytics dashboards, product strategy
 
 <img align="right" alt="GIF" width="156px" height="156px"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
@@ -68,33 +40,28 @@ while (me.isAlive()) {
 ```
 
 
-# 🖼️ Some Apps I've Made:
+# 🏢 Previous Companies & Experience
+
 <table border="0">
  <tr>
     <td>
     <p align="center">
-      <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/BeautyPass.png" width="100%" />
-      <p align="center"><a href="https://play.google.com/store/apps/details?id=net.beautypass.beautypass&hl=en_US">Beautypass: React Native</a></p>
+      <h3>Vela Exchange</h3>
+      <p align="center">Decentralized Exchange Platform</p>
     </p>
   </td>
   <td>
     <p align="center">
-      <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/6PackPromise.png" width="100%" />
- 			<p align="center"><a href="https://yourplayerspal.com/">6 Pack Promise: React Native</a><p> 
+      <h3>RelayChain</h3>
+      <p align="center">Cross-Chain Infrastructure</p>
     </p>
   </td>
  </tr>
  <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/Gymble.png" width="100%" />
-        <p align="center"><a href="https://gymble.us/">Gymble: React</a></p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://github.com/jsCloud007/jsCloud007/blob/main/images/payrexx.png" width="100%" />
-        <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js</a></p>
+        <h3>NewmoneyAI</h3>
+        <p align="center">AI-Powered Financial Solutions</p>
       </p>
     </td>
   </tr>
